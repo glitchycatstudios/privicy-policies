@@ -5,8 +5,9 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-|   2.0.1 | :white_check_mark: |
-| < 2.0.1 | :white_check_mark: |
+| 3.0 Beta| :white_check_mark: |
+|   2.1.1 | :white_check_mark: |
+| < 2.1.1 | :white_check_mark: |
 
 ## Policy info
 We do not collect or use any of our users data to sell, use or to improve anything.
